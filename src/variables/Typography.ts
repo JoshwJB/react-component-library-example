@@ -1,0 +1,1 @@
+export const fontBody = "16px";
